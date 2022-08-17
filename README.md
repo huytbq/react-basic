@@ -1,2 +1,2 @@
 # react-basic
-Reactjs
+Reactjs + Redux-Saga
